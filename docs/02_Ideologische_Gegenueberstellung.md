@@ -1,0 +1,10 @@
+# Ideologische Gegenüberstellung
+
+In diesem Kapitel werden die vier zentralen politischen Ideologien – Liberalismus, Sozialismus, Konservatismus und Autoritarismus – hinsichtlich ihrer Perspektiven auf Wissenschaft, Technologie und Soziologie verglichen.
+
+| **Ideologie**     | **Wissenschaft**                                                                 | **Technologie**                                                                 | **Soziologie**                                                                 |
+|------------------|----------------------------------------------------------------------------------|---------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| **Liberalismus** | Betont die Freiheit der Forschung und fördert Innovation durch Wettbewerb.  [oai_citation_attribution:1‡de.wikipedia.org](https://de.wikipedia.org/wiki/Politische_Ideologie?utm_source=chatgpt.com) | Sieht Technologie als Mittel zur individuellen Entfaltung und wirtschaftlichen Entwicklung. | Fokussiert auf individuelle Rechte und persönliche Freiheit.  [oai_citation_attribution:2‡studysmarter.de](https://www.studysmarter.de/schule/politik/ideologien-und-politische-philosophie/?utm_source=chatgpt.com) |
+| **Sozialismus**  | Befürwortet kollektive Kontrolle über Forschung zur Förderung des Gemeinwohls. | Betrachtet Technologie als gemeinschaftliches Gut zur Förderung sozialer Gleichheit. | Strebt nach sozialer Gerechtigkeit und kollektiver Verantwortung. |
+| **Konservatismus** | Priorisiert traditionelle Wissenssysteme und ist vorsichtig gegenüber radikalen wissenschaftlichen Veränderungen. | Bevorzugt den Erhalt bewährter Technologien und ist skeptisch gegenüber disruptiven Innovationen. | Legt Wert auf soziale Stabilität und die Bewahrung kultureller Traditionen. |
+| **Autoritarismus** | Nutzt Wissenschaft als Instrument staatlicher Kontrolle und zur Legitimation von Machtstrukturen. | Setzt Technologie gezielt zur Überwachung und Kontrolle der Bevölkerung ein. | Fördert strikte soziale Hierarchien und Gehorsam gegenüber Autoritäten. |

@@ -1,0 +1,87 @@
+/* Allgemeine Stile */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+/* Tabelle Stile */
+.table {
+    width: 100%;
+    margin-bottom: 1rem;
+    color: #212529;
+    border-collapse: collapse;
+}
+
+.table th,
+.table td {
+    padding: 0.75rem;
+    vertical-align: top;
+    border-top: 1px solid #dee6e1;
+}
+
+.table thead th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #dee2e6;
+}
+
+.table tbody + tbody {
+    border-top: 2px solid #dee2e6;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+.table-hover tbody tr:hover {
+    color: #212529;
+    background-color: rgba(0, 0, 0, 0.075);
+}
+
+/* Abwechselnde Hintergrundfarben für die Tabelle */
+.table tbody tr:nth-child(odd) {
+    background-color: #f9f9f9;
+}
+
+.table tbody tr:nth-child(even) {
+    background-color: #ffffff;
+}
+
+/* Fußnoten und Erklärungen */
+ol {
+    margin-top: 20px;
+}
+
+ol li {
+    margin-bottom: 10px;
+}
+
+/* Accordion Stile */
+.card-header {
+    background-color: #f8f9fa;
+}
+
+.card-body {
+    background-color: #ffffff;
+}
+
+/* Button Stile */
+.btn-primary {
+    margin-bottom: 10px;
+}
+
+/* Footer Stile */
+footer {
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #6bb0f5;
+}
