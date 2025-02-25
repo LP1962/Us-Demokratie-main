@@ -10,23 +10,33 @@ Aufhänger war für mich die Frage, ob die Demokratie westlicher Machart noch be
 
 Wir beschäftigen uns in diesem Kapitel mit der Frage, warum die großen Staaten der Welt genau die Führungsgestalten hervorbringen, die sie heute haben.
 USA, China und Russland sind dabei die Hauptakteure.
+
 ### 1.1 Die USA
+
 Aus jede der folgenden Gruppen ist schonmal ein US-Präsident hervorgegangen:
+
 - a) Die Soldaten
 - b) Die Juristen
 - c) Der Geldadel
 - d) TV-Persönlichkeiten
 Die folgende Tabelle zeigt die Verteilung der Präsidenten auf diese Gruppen mit einigen signifikanten Beispielen:
-| Gruppe             | Namen                                      | Quelle |
-|--------------------|--------------------------------------------|--------|
-| a) Die Soldaten    | George Washington, Ulysses S. Grant, Dwight D. Eisenhower | [1](https://en.wikipedia.org/wiki/George_Washington), [2](https://en.wikipedia.org/wiki/Ulysses_S._Grant), [3](https://en.wikipedia.org/wiki/Dwight_D._Eisenhower) |
-| b) Die Juristen    | John Adams, Abraham Lincoln, Franklin D
 
-. Roosevelt, Barack Obama | [4](https://en.wikipedia.org/wiki/John_Adams), [5](https://en.wikipedia.org/wiki/Abraham_Lincoln), [6](https://en.wikipedia.org/wiki/Franklin_D._Roosevelt), [7](https://en.wikipedia.org/wiki/Barack_Obama) |
-| c) Der Geldadel    | Theodore Roosevelt, Franklin D. Roosevelt, John F. Kennedy | [8](https://en.wikipedia.org/wiki/Theodore_Roosevelt), [9](https://en.wikipedia.org/wiki/Franklin_D._Roosevelt), [10](https://en.wikipedia.org/wiki/John_F._Kennedy) |
+| Gruppe             | Namen                                      | Amtszeit | Quelle |
+|--------------------|--------------------------------------------|----------|--------|
+| a) Die Soldaten    | George Washington                          | 1789-1797 | [1](https://en.wikipedia.org/wiki/George_Washington) |
+|                    | Ulysses S. Grant                           | 1869-1877 | [2](https://en.wikipedia.org/wiki/Ulysses_S._Grant) |
+|                    | Dwight D. Eisenhower                       | 1953-1961 | [3](https://en.wikipedia.org/wiki/Dwight_D._Eisenhower) |
+| b) Die Juristen    | John Adams                                 | 1797-1801 | [4](https://en.wikipedia.org/wiki/John_Adams) |
+|                    | Abraham Lincoln                            | 1861-1865 | [5](https://en.wikipedia.org/wiki/Abraham_Lincoln) |
+|                    | Franklin D. Roosevelt                      | 1933-1945 | [6](https://en.wikipedia.org/wiki/Franklin_D._Roosevelt) |
+|                    | Barack Obama                               | 2009-2017 | [7](https://en.wikipedia.org/wiki/Barack_Obama) |
+| c) Der Geldadel    | Theodore Roosevelt                         | 1901-1909 | [8](https://en.wikipedia.org/wiki/Theodore_Roosevelt) |
+|                    | Franklin D. Roosevelt                      | 1933-1945 | [9](https://en.wikipedia.org/wiki/Franklin_D._Roosevelt) |
+|                    | John F. Kennedy                            | 1961-1963 | [10](https://en.wikipedia.org/wiki/John_F._Kennedy) |
+| d) TV-Persönlichkeiten | Ronald Reagan                         | 1981-1989 | [11](https://en.wikipedia.org/wiki/Ronald_Reagan) |
+|                    | Donald Trump                               | 2017-2021 | [12](https://en.wikipedia.org/wiki/Donald_Trump) |
 
 
-| d) TV-Persönlichkeiten | Ronald Reagan, Donald Trump | [11](https://en.wikipedia.org/wiki/Ronald_Reagan), [12](https://en.wikipedia.org/wiki/Donald_Trump) |
 
 ## Kapitel 2: Das Erwachen des "sozialen Immunsystems"
 
