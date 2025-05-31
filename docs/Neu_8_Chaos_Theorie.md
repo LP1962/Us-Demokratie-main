@@ -6,8 +6,9 @@
 - Idee: Komplexe Systeme brauchen Störungen, um sich neu zu ordnen.
 - In der Praxis wurde diese Rhetorik genutzt, um Unvorhersehbarkeit und Kontrollverlust als angeblich produktive Strategien zu verkaufen.
 
-## Neu.8.2 "Mediatisiertes Chaos"– MeidasTouch Network & Brian Tyler Cohen als Gegengewicht zur rechten Medienblase
+## Neu.8.2 "Mediatisiertes Chaos"
 
+- MeidasTouch Network & Brian Tyler Cohen als Gegengewicht zur rechten Medienblase
 - Das MeidasTouch Network (MTN) und der politische Kommentator Brian Tyler Cohen (BTC) wirken als progressive Medienakteure, die durch faktenbasierte, zugängliche Inhalte eine Gegenöffentlichkeit zur MAGA-/Musk-dominierten Social-Media-Sphäre bilden.
 - Während Trumps Lager Twitter/X, Truth Social und Telegram für Desinformation und Framing nutzt, setzen MTN und BTC auf Aufklärung, Recherche und demokratische Repräsentation – und gewinnen so insbesondere bei jungen, gebildeten Zielgruppen an Einfluss.
 
@@ -35,3 +36,6 @@
 - Plattform-Strategien beherrschen – Gegen TikTok-Kampagnen helfen keine Print-Artikel.
 - Gerichtsbarkeit schützen und stärken – als letzte Bastion der demokratischen Ordnung.
 - Koalitionen jenseits von Parteigrenzen schmieden – das neue Gegensystem ist mehr als liberal vs. konservativ.
+- Die neue Opposition muss sich selbst organisieren – ohne traditionelle Parteien und Institutionen.
+- Langfristige Strategien entwickeln – nicht nur auf kurzfristige Siege setzen.
+- Die neue Opposition muss sich selbst als Opposition verstehen – nicht nur als Gegengewicht zu Trump.  
