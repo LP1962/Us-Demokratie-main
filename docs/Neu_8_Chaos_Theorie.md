@@ -38,4 +38,4 @@
 - Koalitionen jenseits von Parteigrenzen schmieden – das neue Gegensystem ist mehr als liberal vs. konservativ.
 - Die neue Opposition muss sich selbst organisieren – ohne traditionelle Parteien und Institutionen.
 - Langfristige Strategien entwickeln – nicht nur auf kurzfristige Siege setzen.
-- Die neue Opposition muss sich selbst als Opposition verstehen – nicht nur als Gegengewicht zu Trump.  
+- Die neue Opposition muss sich selbst als Opposition verstehen – nicht nur als Gegengewicht zu Trump.

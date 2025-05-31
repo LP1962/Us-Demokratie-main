@@ -1,6 +1,6 @@
 # Neu.9 Transreligiöse Identität und spiritueller Zusammenhalt in der postideologischen Gesellschaft
 
-## Neu.9.1 Institution vs. Inspiration – Die Rückkehr religiöser Autorität durch Papst Leo XIV.
+## Neu.9.1 Institution vs. Inspiration – Die Rückkehr religiöser Autorität durch Papst Leo XIV
 
 - Die katholische Kirche hat in den letzten Jahren wieder an Autorität gewonnen.
 - Papst Leo XIV. spricht in klarer, weltoffener Sprache gegen Nationalismus, Umweltzerstörung und religiöse Dogmatik.
