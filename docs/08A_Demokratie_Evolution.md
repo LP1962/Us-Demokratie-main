@@ -36,8 +36,6 @@ Die folgende Tabelle zeigt die Verteilung der Präsidenten auf diese Gruppen mit
 | d) TV-Persönlichkeiten | Ronald Reagan                         | 1981-1989 | [11](https://en.wikipedia.org/wiki/Ronald_Reagan) |
 |                    | Donald Trump                               | 2017-2021 | [12](https://en.wikipedia.org/wiki/Donald_Trump) |
 
-
-
 ## Kapitel 2: Das Erwachen des "sozialen Immunsystems"
 
 ## Kapitel 3: Ideologien und ihre Einflussnahme auf Politik und Wirtschaft
